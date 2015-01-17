@@ -1,0 +1,31 @@
+
+SystemVerilog and VHDL Tools Collection
+
+GOALS:
+==========================================
+1. To provide a SystemVerilog Abstract Syntax Tree (AST) representation of SystemVerilog designs.
+2. To illustrate use of the SystemVerilog AST in implementing custom Linting and Coding Style Checkers.
+3. To provide a VHDL Abstract Syntax Tree representation of VHDL designs.
+4. To illustrate using the VHDL AST in implementing custom Linting and Coding Style Checkers.
+5. Implement a full-language SystemVerilog Simulator.
+6. Implement a full-language VHDL Simulator.
+
+LICENSE:
+==========================================
+Licensed under the Apache License, Version 2.0 (the "License")
+View the License at http://www.apache.org/licenses/LICENSE-2.0
+
+TODO:
+==========================================
+- Complete the SystemVerilog scanner and parser using, respectively, Flex and Bison.
+
+EPILOGUE:
+==========================================
+- Contact the design team at the email address below.
+- To properly form the address, remove all whitespace between characters AND retain both period symbols.
+
+b e  r t . t  @ e n  g  i n e e r . c o  m
+
+- We welcome all collaboration and look forward to helping improve hardware design productivity.
+==========================================
+
